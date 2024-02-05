@@ -1,4 +1,4 @@
-# Study Notion Clone
+# Study Notion
 
 ## Overview
 
