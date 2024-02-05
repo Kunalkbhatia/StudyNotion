@@ -1,0 +1,13 @@
+{
+  "name": "study-notion",
+  "version": "1.0.0",
+  "description": "Study Notion Clone is a web-based Learning Management System (LMS) built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a feature-rich environment for users to explore courses, manage profiles, and engage in learning activities. The project incorporates various functionalities, including user authentication, OTP generation, course catalog, instructor dashboards, and more.",
+  "main": "backend/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install && cd backend && npm install && cd ../frontend && npm install && npm run build"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
